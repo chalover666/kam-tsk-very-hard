@@ -1,0 +1,12 @@
+2023.10.08 14:23:26.161   Invalid parameter(s) passed to Actions.PlayerShareFog: 0, 4, 0
+2023.10.08 14:23:26.165   Invalid parameter(s) passed to Actions.PlayerShareFog: 4, 0, 0
+2024.09.17 21:13:51.628   Invalid parameter(s) passed to Actions.PlayerShareFog: 0, 4, 0
+2024.09.17 21:13:51.635   Invalid parameter(s) passed to Actions.PlayerShareFog: 4, 0, 0
+2024.09.17 21:14:50.879   Invalid parameter(s) passed to Actions.PlayerShareFog: 0, 4, 0
+2024.09.17 21:14:50.886   Invalid parameter(s) passed to Actions.PlayerShareFog: 4, 0, 0
+2025.07.17 19:49:11.693   Invalid parameter(s) passed to Actions.PlayerShareFog: 0, 4, 0
+2025.07.17 19:49:11.699   Invalid parameter(s) passed to Actions.PlayerShareFog: 4, 0, 0
+2025.07.17 19:52:30.152   Invalid parameter(s) passed to Actions.PlayerShareFog: 0, 4, 0
+2025.07.17 19:52:30.157   Invalid parameter(s) passed to Actions.PlayerShareFog: 4, 0, 0
+2025.07.17 20:00:01.063   Invalid parameter(s) passed to Actions.PlayerShareFog: 0, 4, 0
+2025.07.17 20:00:01.069   Invalid parameter(s) passed to Actions.PlayerShareFog: 4, 0, 0
