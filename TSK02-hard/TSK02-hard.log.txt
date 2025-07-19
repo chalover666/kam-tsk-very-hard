@@ -1,0 +1,8 @@
+2023.10.05 00:14:05.275   Script compile errors: 
+[Error] Unknown identifier 'DEFTYPE' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK02\difficulty.script' at [237:18]
+2023.10.05 00:14:41.738   Script compile errors: 
+[Error] Unknown identifier 'ADEFTYPE' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK02\difficulty.script' at [237:18]
+2023.10.05 00:15:47.433   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK02\difficulty.script' at [237:35]
+2023.10.05 00:23:37.197   Script compile errors: 
+[Error] Invalid number of parameters in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK02\difficulty.script' at [245:59]

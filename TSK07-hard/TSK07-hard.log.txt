@@ -1,0 +1,23 @@
+2023.10.08 12:43:41.606   House could not be added! Player:1 X:20 Y:49
+2023.10.08 13:01:02.915   Script compile errors: 
+[Error] Unknown identifier 'RemoveDefencePosition' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK07\TSK07.script' at [192:4]
+2023.10.08 13:18:42.647   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK07\difficulty.script' at [239:49]
+2023.10.08 13:21:49.671   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK07\difficulty.script' at [239:44]
+2023.10.08 13:22:09.789   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK07\difficulty.script' at [239:49]
+2023.10.08 13:23:18.863   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK07\difficulty.script' at [237:35]
+2023.10.08 13:23:34.512   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK07\difficulty.script' at [237:36]
+2023.10.08 13:24:46.031   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK07\difficulty.script' at [237:68]
+2023.10.08 13:26:04.166   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK07\difficulty.script' at [239:40]
+2023.10.08 13:27:40.691   Invalid parameter(s) passed to Actions.AIDefencePositionAddEx: 1, 4, DefPos: [41:42 R=10 dirE gtMelee KM_AITypes]
+2023.10.08 13:27:40.696   Invalid parameter(s) passed to Actions.AIDefencePositionAddEx: 1, 5, DefPos: [35:51 R=10 dirE gtAntiHorse KM_AITypes]
+2023.10.08 13:27:40.699   Invalid parameter(s) passed to Actions.AIDefencePositionAddEx: 1, 6, DefPos: [43:47 R=10 dirNE gtRanged KM_AITypes]
+2023.10.08 13:29:10.298   Invalid parameter(s) passed to Actions.AIDefencePositionAddEx: 1, 4, DefPos: [41:42 R=10 dirE gtMelee KM_AITypes]
+2023.10.08 13:29:10.304   Invalid parameter(s) passed to Actions.AIDefencePositionAddEx: 1, 5, DefPos: [35:51 R=10 dirE gtAntiHorse KM_AITypes]
+2023.10.08 13:29:10.308   Invalid parameter(s) passed to Actions.AIDefencePositionAddEx: 1, 6, DefPos: [43:47 R=10 dirNE gtRanged KM_AITypes]

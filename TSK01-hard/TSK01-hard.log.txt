@@ -1,0 +1,168 @@
+2023.10.03 11:40:16.289   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [248:33]
+2023.10.03 12:13:20.855   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [261:7]
+2023.10.03 12:14:15.151   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [261:7]
+2023.10.03 12:38:56.681   House could not be added! Player:1 X:24 Y:5
+2023.10.04 15:41:05.322   Script compile errors: 
+[Error] colon (':') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [235:69]
+2023.10.04 15:57:09.962   Script compile errors: 
+[Error] period ('.') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [246:20]
+2023.10.04 15:59:02.529   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [246:36]
+2023.10.04 16:00:28.194   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [246:36]
+2023.10.04 16:01:11.191   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [246:36]
+2023.10.04 16:01:50.316   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [246:37]
+2023.10.04 16:04:16.892   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [246:36]
+2023.10.04 16:05:43.854   Script compile errors: 
+[Error] 'BEGIN' expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [246:2]
+2023.10.04 16:07:15.247   Script compile errors: 
+[Error] 'BEGIN' expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [244:1]
+2023.10.04 16:08:51.107   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [246:30]
+2023.10.04 16:10:04.077   Script compile errors: 
+[Error] Closing parenthesis expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [248:17]
+2023.10.04 16:10:47.341   Script compile errors: 
+[Error] Assignment expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [250:15]
+2023.10.04 16:12:31.987   Script compile errors: 
+[Error] Assignment expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [251:15]
+2023.10.04 16:16:18.087   Script compile errors: 
+[Error] Assignment expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [251:15]
+2023.10.04 16:17:06.206   Script compile errors: 
+[Error] Unknown identifier 'WType' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [251:6]
+2023.10.04 16:17:32.613   Script compile errors: 
+[Error] Assignment expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [251:15]
+2023.10.04 16:18:57.623   Script compile errors: 
+[Error] Unknown identifier 'WareIndex' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [250:6]
+2023.10.04 16:19:21.525   Invalid parameter(s) passed to States.ClosestHouse: 0, 100, 100, 11
+2023.10.04 16:19:21.529   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 1, 2000
+2023.10.04 16:19:21.534   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 2, 2000
+2023.10.04 16:19:21.539   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 3, 2000
+2023.10.04 16:19:21.544   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 4, 2000
+2023.10.04 16:19:21.548   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 5, 2000
+2023.10.04 16:19:21.554   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 7, 2000
+2023.10.04 16:19:21.558   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 8, 2000
+2023.10.04 16:19:21.562   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 10, 2000
+2023.10.04 16:19:21.565   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 13, 2000
+2023.10.04 16:19:21.569   Invalid parameter(s) passed to Actions.HouseAddWaresTo: -1, 27, 2000
+2023.10.04 20:14:12.966   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [243:63]
+2023.10.04 20:15:10.245   Script compile errors: 
+[Error] Identifier expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [243:65]
+2023.10.04 20:16:26.690   Script compile errors: 
+[Error] Identifier expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [243:65]
+2023.10.04 20:18:33.084   Script compile errors: 
+[Error] colon (':') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [255:10]
+2023.10.04 20:19:21.285   Exception in script: 'Out Of Range! Element index is out of Array range: Element Index is 7, Array length = 7 raised in game code called by script event handler 'OnMissionStart''
+in method 'ADDSTOREHOUSEWARES'
+
+2023.10.04 20:19:31.931   Invalid parameter(s) passed to Actions.GroupOrderHalt: 0
+2023.10.04 20:19:31.937   Invalid parameter(s) passed to Actions.GroupOrderAttackUnit: 0, 1310027
+2023.10.04 20:19:31.940   Invalid parameter(s) passed to Actions.GroupOrderHalt: 0
+2023.10.04 20:19:31.945   Invalid parameter(s) passed to Actions.GroupOrderAttackUnit: 0, 1310027
+2023.10.04 20:19:31.949   Invalid parameter(s) passed to Actions.GroupOrderHalt: 0
+2023.10.04 20:19:31.954   Invalid parameter(s) passed to Actions.GroupOrderAttackUnit: 0, 1310027
+2023.10.04 20:19:31.958   Invalid parameter(s) passed to Actions.GroupOrderHalt: 0
+2023.10.04 20:19:31.962   Invalid parameter(s) passed to Actions.GroupOrderAttackUnit: 0, 1310027
+2023.10.04 20:19:58.492   Exception in script: 'Out Of Range! Element index is out of Array range: Element Index is 10, Array length = 10 raised in game code called by script event handler 'OnMissionStart''
+in method 'ADDSTOREHOUSEWARES'
+
+2023.10.04 20:20:09.032   Invalid parameter(s) passed to Actions.GroupOrderHalt: 0
+2023.10.04 20:20:09.037   Invalid parameter(s) passed to Actions.GroupOrderAttackUnit: 0, 1310027
+2023.10.04 20:20:09.042   Invalid parameter(s) passed to Actions.GroupOrderHalt: 0
+2023.10.04 20:20:09.047   Invalid parameter(s) passed to Actions.GroupOrderAttackUnit: 0, 1310027
+2023.10.04 20:20:09.050   Invalid parameter(s) passed to Actions.GroupOrderHalt: 0
+2023.10.04 20:20:09.057   Invalid parameter(s) passed to Actions.GroupOrderAttackUnit: 0, 1310027
+2023.10.04 20:20:09.061   Invalid parameter(s) passed to Actions.GroupOrderHalt: 0
+2023.10.04 20:20:09.065   Invalid parameter(s) passed to Actions.GroupOrderAttackUnit: 0, 1310027
+2023.10.04 20:39:24.281   Script compile errors: 
+[Error] Invalid number of parameters in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [196:50]
+2023.10.04 20:40:50.915   Script compile errors: 
+[Error] Invalid number of parameters in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [196:50]
+2023.10.04 20:48:55.057   Script compile errors: 
+[Error] Invalid number of parameters in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [196:50]
+2023.10.04 21:14:48.372   Script compile errors: 
+[Error] Invalid number of parameters in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [196:50]
+2023.10.04 21:15:39.644   Script compile errors: 
+[Error] Invalid number of parameters in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:97]
+2023.10.04 21:16:02.351   Script compile errors: 
+[Error] Invalid number of parameters in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:91]
+2023.10.04 21:16:14.845   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:65]
+2023.10.04 21:16:36.410   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:94]
+2023.10.04 21:21:40.422   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:65]
+2023.10.04 21:22:16.267   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:61]
+2023.10.04 21:23:36.752   Script compile errors: 
+[Error] Closing parenthesis expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:65]
+2023.10.04 21:23:58.992   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:70]
+2023.10.04 21:24:35.003   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:99]
+2023.10.04 21:24:55.103   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:95]
+2023.10.04 21:25:17.552   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:70]
+2023.10.04 21:27:46.216   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:99]
+2023.10.04 21:28:04.944   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:72]
+2023.10.04 21:28:37.090   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:96]
+2023.10.04 21:33:22.904   Script compile errors: 
+[Error] Unknown identifier 'att_ClosestBuildingFromStartPos' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:60]
+2023.10.04 21:33:40.747   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:99]
+2023.10.04 21:42:57.364   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:109]
+2023.10.04 21:43:21.186   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:80]
+2023.10.04 21:46:44.224   Script compile errors: 
+[Error] Unknown identifier 'KMPoint' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:63]
+2023.10.04 21:46:58.989   Script compile errors: 
+[Error] Closing parenthesis expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:74]
+2023.10.04 21:48:27.842   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:65]
+2023.10.04 21:49:36.562   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:80]
+2023.10.04 21:49:53.771   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:77]
+2023.10.04 21:50:19.488   Script compile errors: 
+[Error] Closing parenthesis expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:74]
+2023.10.04 21:50:33.182   Script compile errors: 
+[Error] Closing parenthesis expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:71]
+2023.10.04 21:51:03.608   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:68]
+2023.10.04 21:51:25.244   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:62]
+2023.10.04 21:51:51.782   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:62]
+2023.10.04 21:52:42.178   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:69]
+2023.10.04 21:56:01.232   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:77]
+2023.10.04 21:56:22.430   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:70]
+2023.10.04 21:56:57.626   Script compile errors: 
+[Error] Closing parenthesis expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:70]
+2023.10.04 21:57:19.772   Script compile errors: 
+[Error] Closing parenthesis expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:72]
+2023.10.04 21:57:40.563   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\TSK01.script' at [208:79]
+2023.10.04 22:09:16.834   Script compile errors: 
+[Error] 'BEGIN' expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [232:1]
+2023.10.04 22:15:48.985   Script compile errors: 
+[Error] Semicolon (';') expected in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [231:101]
+2023.10.04 23:05:43.680   Script compile errors: 
+[Error] Unknown identifier 'RepairMode' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [296:2]
+2023.10.04 23:07:05.145   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [315:48]
+2023.10.04 23:08:15.707   Script compile errors: 
+[Error] Type mismatch in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK01\difficulty.script' at [315:42]
