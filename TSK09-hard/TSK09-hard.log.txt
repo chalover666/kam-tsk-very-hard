@@ -1,0 +1,2 @@
+2023.10.08 14:42:07.551   Script compile errors: 
+[Error] Unknown identifier 'D' in 'C:\Program Files (x86)\KaM Remake Beta r15122\Maps\TSK09\TSK09.script' at [204:37]
